@@ -1,6 +1,6 @@
 # ProgrammingI
 - ProgrammingI
-##　教科書課題
+## 教科書課題
 ### 第1章　Pythonの基本
 - 1.1 Pythonとその特徴
 - 1.2 コードの実行方法
